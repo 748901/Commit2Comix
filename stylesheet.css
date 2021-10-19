@@ -1,0 +1,30 @@
+body {
+  font-family: cursive;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  background-color: orangered
+}
+html {
+ background-image: url(clouds-2390892_960_720.png)
+}
+h3 {
+  text-align: center
+}
+h2 {
+  text-align: center
+}
+img {
+  width: 450px;
+  border-width: 20px;
+  border-style: outset;
+  border-color: orangered;
+  border-radius: 5px;
+}
+.bye {
+  background-image: url(cry.png); 
+}
